@@ -1,4 +1,4 @@
-# Practical tutorial on Streamlit 
+# Practical Tutorial on Streamlit Dashboard
 
 This project will capture most used streamlit app elements. I will cover the most useful element in order to create elegant app that you can demonistrate your complete data science or data analysis project.  
 ## Step one create virtual environment 
