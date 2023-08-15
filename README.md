@@ -13,3 +13,7 @@ Make sure you are in your working directory so everything work for you smoothly.
 - after install write in your terminal **streamlit hello** you will get a demo streamlit app
 
 ## Using Uber data to Display Map and Data 
+This project show the location of Uber customers. 
+
+## Nav app
+This project show instance interactive navigation bar. That is how you can create your data science project with dash application. 
